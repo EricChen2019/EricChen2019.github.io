@@ -5,8 +5,48 @@
         <link>http://example.com</link>
         <description>永远保持好奇</description>
         <language>zh-CN</language>
-        <pubDate>Tue, 27 Jul 2021 20:39:12 +0800</pubDate>
-        <lastBuildDate>Tue, 27 Jul 2021 20:39:12 +0800</lastBuildDate>
+        <pubDate>Thu, 29 Jul 2021 10:01:38 +0800</pubDate>
+        <lastBuildDate>Thu, 29 Jul 2021 10:01:38 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">http://example.com/2021/07/29/lumen/%E9%85%8D%E7%BD%AElumen%E7%8E%AF%E5%A2%83%E8%AE%B0%E5%BD%95/</guid>
+            <title></title>
+            <link>http://example.com/2021/07/29/lumen/%E9%85%8D%E7%BD%AElumen%E7%8E%AF%E5%A2%83%E8%AE%B0%E5%BD%95/</link>
+            <pubDate>Thu, 29 Jul 2021 10:01:38 +0800</pubDate>
+            <description><![CDATA[ &lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;php -r “copy(‘&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9pbnN0YWxsLnBocGNvbXBvc2VyLmNvbS9pbnN0YWxsZXI=&#34;&gt;https://install.phpcomposer.com/installer&lt;/span&gt;’, ‘composer-setup.php’);”&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;php composer-setup.php&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;php -r “unlink(‘composer-setup.php’);”&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;composer config -g repo.packagist composer &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9taXJyb3JzLmFsaXl1bi5jb20vY29tcG9zZXIv&#34;&gt;https://mirrors.aliyun.com/composer/&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;composer&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;composer clear-cache&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;composer&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;composer config -gl&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;composer create-project --prefer-dist laravel/lumen blog&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;设置文件权限，看图片&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;C:%5CUsers%5CViktorChen%5CDesktop%5C%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210729100302.png&#34; alt=&#34;微信图片_20210729100302&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://example.com/2021/07/27/%E6%90%AD%E5%BB%BALUMEN%E8%BF%87%E7%A8%8B/</guid>
             <title>搭建LUMEN过程</title>

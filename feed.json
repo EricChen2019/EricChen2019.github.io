@@ -5,6 +5,14 @@
     "home_page_url": "http://example.com",
     "items": [
         {
+            "id": "http://example.com/2021/07/29/lumen/%E9%85%8D%E7%BD%AElumen%E7%8E%AF%E5%A2%83%E8%AE%B0%E5%BD%95/",
+            "url": "http://example.com/2021/07/29/lumen/%E9%85%8D%E7%BD%AElumen%E7%8E%AF%E5%A2%83%E8%AE%B0%E5%BD%95/",
+            "title": "",
+            "date_published": "2021-07-29T02:01:38.363Z",
+            "content_html": "<ol>\n<li>\n<p>php -r “copy(‘<span class=\"exturl\" data-url=\"aHR0cHM6Ly9pbnN0YWxsLnBocGNvbXBvc2VyLmNvbS9pbnN0YWxsZXI=\">https://install.phpcomposer.com/installer</span>’, ‘composer-setup.php’);”</p>\n</li>\n<li>\n<p>php composer-setup.php</p>\n</li>\n<li>\n<p>php -r “unlink(‘composer-setup.php’);”</p>\n</li>\n<li>\n<p>composer config -g repo.packagist composer <span class=\"exturl\" data-url=\"aHR0cHM6Ly9taXJyb3JzLmFsaXl1bi5jb20vY29tcG9zZXIv\">https://mirrors.aliyun.com/composer/</span></p>\n</li>\n<li>\n<p>composer</p>\n</li>\n<li>\n<p>composer clear-cache</p>\n</li>\n<li>\n<p>composer</p>\n</li>\n<li>\n<p>composer config -gl</p>\n</li>\n<li>\n<p>composer create-project --prefer-dist laravel/lumen blog</p>\n</li>\n<li>\n<p>设置文件权限，看图片</p>\n<p><img data-src=\"C:%5CUsers%5CViktorChen%5CDesktop%5C%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210729100302.png\" alt=\"微信图片_20210729100302\"></p>\n</li>\n</ol>\n",
+            "tags": []
+        },
+        {
             "id": "http://example.com/2021/07/27/%E6%90%AD%E5%BB%BALUMEN%E8%BF%87%E7%A8%8B/",
             "url": "http://example.com/2021/07/27/%E6%90%AD%E5%BB%BALUMEN%E8%BF%87%E7%A8%8B/",
             "title": "搭建LUMEN过程",
