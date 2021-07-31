@@ -6,11 +6,9 @@
     <updated>2021-07-31T14:06:18.345Z</updated>
     <entry>
         <id>http://example.com/2021/07/31/%E9%85%8D%E7%BD%AElumen%E7%8E%AF%E5%A2%83%E8%AE%B0%E5%BD%95/</id>
-        <title></title>
+        <title>配置lumen环境记录</title>
         <link rel="alternate" href="http://example.com/2021/07/31/%E9%85%8D%E7%BD%AElumen%E7%8E%AF%E5%A2%83%E8%AE%B0%E5%BD%95/"/>
-        <content type="html">&lt;hr&gt;
-&lt;h2 id=&#34;配置lumen环境记录&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#配置lumen环境记录&#34;&gt;#&lt;/a&gt; 配置 lumen 环境记录&lt;/h2&gt;
-&lt;ol&gt;
+        <content type="html">&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;php -r “copy(‘&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9pbnN0YWxsLnBocGNvbXBvc2VyLmNvbS9pbnN0YWxsZXI=&#34;&gt;https://install.phpcomposer.com/installer&lt;/span&gt;’, ‘composer-setup.php’);”&lt;/p&gt;
 &lt;/li&gt;
